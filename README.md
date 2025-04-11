@@ -1,10 +1,10 @@
-# 🧠 Volume Gradient Visualization in Java
+# Volume Gradient Visualization in Java
 
 This Java project processes raw 3D volumetric data and visualizes it as 2D image slices in grayscale and RGB. It demonstrates how to extract and visualize both raw and gradient-based features of medical or scientific volumetric datasets.
 
 ---
 
-## 📂 Overview
+## Overview
 
 This project performs the following steps:
 
