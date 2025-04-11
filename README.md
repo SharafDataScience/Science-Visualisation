@@ -3,6 +3,9 @@
 This Java project processes raw 3D volumetric data and visualizes it as 2D image slices in grayscale and RGB. It demonstrates how to extract and visualize both raw and gradient-based features of medical or scientific volumetric datasets.
 
 ---
+![image](https://github.com/user-attachments/assets/78841051-d385-4db5-b5f8-7ee7dbaf81b4)
+![image](https://github.com/user-attachments/assets/e886ba6f-351f-4b3d-81de-8ce060380e6a)
+![image](https://github.com/user-attachments/assets/345e9429-92c5-41cc-9f18-1d8a1d1a25a9)
 
 ## Overview
 
